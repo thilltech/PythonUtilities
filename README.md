@@ -5,6 +5,7 @@ Various Python scripts that I've written for my IT administration job. I'm shari
 
 - Python 3.x
 - Microsoft Windows
+
 All scripts were written in and intended to run in Python 3.x and Windows 11 environments. They have not been tested in or developed for other environments.
 
 ## Current Scripts
