@@ -3,8 +3,8 @@ routereport.py
 This script parses output from the Windows tracert command and checks for specific IPs. This can be used to confirm the status of failover routing or for verifying specific IP routes. 
 
 Tim Hill, 2026
-License: MIT
-Version: 1.0.0
+License: GPLv3
+Version: 1.0.1
 Dependencies: Python 3.10+, Windows operating system
 """
 
